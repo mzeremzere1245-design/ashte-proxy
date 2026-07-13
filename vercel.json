@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+    {
+      "source": "/proxy-k21/:path*",
+      "destination": "http://k21hd.mypsx.net:40/:path*"
+    },
+    {
+      "source": "/proxy-avr/:path*",
+      "destination": "http://avrstream.com:1935/:path*"
+    },
+    {
+      "source": "/proxy-qellat/:path*",
+      "destination": "http://213.32.255.86:1935/:path*"
+    },
+    {
+      "source": "/proxy-servx/:path*",
+      "destination": "http://servx.pro:80/:path*"
+    },
+    {
+      "source": "/proxy-iptv8/:path*",
+      "destination": "http://line.iptv8.cc:80/:path*"
+    }
+  ]
+}
