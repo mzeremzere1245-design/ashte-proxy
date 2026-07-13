@@ -19,6 +19,10 @@
     {
       "source": "/proxy-iptv8/:path*",
       "destination": "http://line.iptv8.cc:80/:path*"
+    },
+    {
+      "source": "/proxy-storelink/:path*",
+      "destination": "https://storelink.pro/:path*"
     }
   ]
 }
