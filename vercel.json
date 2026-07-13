@@ -23,6 +23,10 @@
     {
       "source": "/proxy-storelink/:path*",
       "destination": "https://storelink.pro/:path*"
+    },
+    {
+      "source": "/proxy-newiptv/:path*",
+      "destination": "http://20.00445500.info:80/:path*"
     }
   ]
 }
