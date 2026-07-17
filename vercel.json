@@ -27,6 +27,110 @@
     {
       "source": "/proxy-newiptv/:path*",
       "destination": "http://20.00445500.info:80/:path*"
+    },
+    {
+      "source": "/proxy-stap/:path*",
+      "destination": "http://stap2025.me/:path*"
+    },
+    {
+      "source": "/proxy-kurdmax/:path*",
+      "destination": "https://stream.kurdmax.tv/:path*"
+    },
+    {
+      "source": "/proxy-streamlock/:path*",
+      "destination": "https://5a3ed7a72ed4b.streamlock.net/:path*"
+    },
+    {
+      "source": "/proxy-kwikmotion/:path*",
+      "destination": "https://live.kwikmotion.com/:path*"
+    },
+    {
+      "source": "/proxy-ava/:path*",
+      "destination": "https://ava2.store/:path*"
+    },
+    {
+      "source": "/proxy-rudaw/:path*",
+      "destination": "https://live.rudaw.net/:path*"
+    },
+    {
+      "source": "/proxy-k24/:path*",
+      "destination": "https://d1x82nydcxndze.cloudfront.net/:path*"
+    },
+    {
+      "source": "/proxy-karwan/:path*",
+      "destination": "https://cdn.karwan.tv/:path*"
+    },
+    {
+      "source": "/proxy-channel8/:path*",
+      "destination": "https://live.channel8.com/:path*"
+    },
+    {
+      "source": "/proxy-avrhost/:path*",
+      "destination": "https://avr.host247.net/:path*"
+    },
+    {
+      "source": "/proxy-streambrothers/:path*",
+      "destination": "https://media2.streambrothers.com:1936/:path*"
+    },
+    {
+      "source": "/proxy-forcaroo/:path*",
+      "destination": "https://stream.forcaroo.com/:path*"
+    },
+    {
+      "source": "/proxy-skynews/:path*",
+      "destination": "https://live-stream.skynewsarabia.com/:path*"
+    },
+    {
+      "source": "/proxy-parwarda/:path*",
+      "destination": "https://parwarda.unitedmixmedia.tv/:path*"
+    },
+    {
+      "source": "/proxy-antik/:path*",
+      "destination": "https://dash4.antik.sk/:path*"
+    },
+    {
+      "source": "/proxy-akamaized1/:path*",
+      "destination": "https://hlspackager.akamaized.net/:path*"
+    },
+    {
+      "source": "/proxy-akamaized2/:path*",
+      "destination": "https://vs-hls-push-ww-live.akamaized.net/:path*"
+    },
+    {
+      "source": "/proxy-livehost/:path*",
+      "destination": "https://live.host247.net/:path*"
+    },
+    {
+      "source": "/proxy-alarabiya/:path*",
+      "destination": "https://live.alarabiya.net/:path*"
+    },
+    {
+      "source": "/proxy-shams/:path*",
+      "destination": "https://stream.shams.tv/:path*"
+    },
+    {
+      "source": "/proxy-mmn/:path*",
+      "destination": "http://mmn.mypsx.net:1935/:path*"
+    },
+    {
+      "source": "/proxy-bozztv/:path*",
+      "destination": "https://183.bozztv.com/:path*"
+    },
+    {
+      "source": "/proxy-zaroksorani/:path*",
+      "destination": "https://zindisorani.zaroktv.com.tr/:path*"
+    },
+    {
+      "source": "/proxy-zarokkurmanci/:path*",
+      "destination": "https://zindikurmanci.zaroktv.com.tr/:path*"
+    },
+    {
+      "source": "/proxy-baskhd/:path*",
+      "destination": "http://baskhd.ddns.net:40/:path*"
+    },
+    {
+      "source": "/proxy-persiana/:path*",
+      "destination": "https://4kuhls.persiana.live/:path*"
     }
   ]
 }
